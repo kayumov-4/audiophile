@@ -1,0 +1,11 @@
+body {
+  font-family: "Manrope" sans-serif;
+  font-weight: 700;
+  color: #fff;
+}
+
+.speaker_2 {
+  background-image: url("/src/assets/images/zx7.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
