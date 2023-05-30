@@ -9,9 +9,6 @@ module.exports = {
         "silver-dark": "#F1F1F1",
         "silver-light": "#FAFAFA",
       },
-      backgroundImage: {
-        "zx-7": "url('./src/images/zx7.png')",
-      },
     },
   },
   plugins: [],
